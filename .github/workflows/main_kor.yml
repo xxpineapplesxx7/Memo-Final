@@ -59,4 +59,4 @@ jobs:
           app-name: 'Kor'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_771359D19F664F63ACD7B9C7C250505C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2772CECAFE84022822618821F12C73F }}
